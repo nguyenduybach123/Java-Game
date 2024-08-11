@@ -1,0 +1,112 @@
+37
+
+idle
+idle1 70000000 idle2 70000000 idle3 70000000 idle4 70000000 idle5 70000000 idle6 70000000 idle7 70000000 idle8 70000000
+
+run
+run1 100000000 run2 100000000 run3 100000000 run4 100000000 run5 100000000 run6 100000000 run7 100000000 run8 100000000
+
+jump
+jump1 70000000 jump2 70000000 jump3 70000000 jump4 70000000
+
+landing
+landing1 50000000 landing2 50000000 landing3 50000000 landing4 50000000
+
+crouch
+crouch1 70000000 crouch2 70000000 crouch3 70000000 crouch4 70000000 crouch5 70000000 crouch6 70000000 crouch7 70000000 crouch8 70000000
+
+blade_weak_attack
+blade_weak_attack1 100000000 blade_weak_attack2 100000000 blade_weak_attack3 100000000 blade_weak_attack4 200000000
+
+blade_strong_attack
+blade_strong_attack1 100000000 blade_strong_attack2 100000000 blade_strong_attack3 100000000 blade_strong_attack4 200000000
+
+stab_attack
+stab_attack1 100000000 stab_attack2 100000000 stab_attack3 100000000 stab_attack4 200000000
+
+wind_blade_attack
+wind_blade_attack1 100000000 wind_blade_attack2 100000000 wind_blade_attack3 100000000 wind_blade_attack4 100000000 wind_blade_attack5 100000000 wind_blade_attack6 100000000
+
+healing
+healing1 100000000 healing2 100000000 healing3 100000000 healing4 100000000 healing5 100000000 healing6 100000000 healing7 100000000 healing8 100000000
+
+slide
+slide1 100000000 slide2 100000000 slide3 70000000 slide4 70000000 slide5 70000000 slide6 70000000 slide7 70000000 slide8 70000000 slide9 100000000
+
+air_attack
+air_attack1 100000000 air_attack2 100000000 air_attack3 100000000 air_attack4 70000000 air_attack5 70000000 air_attack6 70000000 air_attack7 70000000
+
+repressed
+blade_weak_attack4 100000000 blade_strong_attack1 100000000
+
+hurt
+hurt1 100000000 hurt2 100000000 hurt3 100000000
+
+skeleton_idle
+skeleton_idle1 100000000 skeleton_idle2 100000000 skeleton_idle3 100000000 skeleton_idle4 100000000
+
+skeleton_walk
+skeleton_walk1 100000000 skeleton_walk2 100000000 skeleton_walk3 100000000 skeleton_walk4 100000000
+
+skeleton_attack
+skeleton_attack1 10000000 skeleton_attack2 100000000 skeleton_attack3 100000000 skeleton_attack4 100000000 skeleton_attack5 100000000 skeleton_attack6 100000000 skeleton_attack7 100000000 skeleton_attack8 100000000
+
+skeleton_takehit
+skeleton_takehit1 100000000 skeleton_takehit2 200000000 skeleton_takehit3 200000000
+
+skeleton_stuned
+skeleton_takehit3 200000000
+
+skeleton_death
+skeleton_death1 500000000 skeleton_death2 100000000 skeleton_death3 80000000 skeleton_death4 50000000
+
+necromancer_idle
+necromancer_idle1 100000000 necromancer_idle2 100000000 necromancer_idle3 100000000 necromancer_idle4 100000000 necromancer_idle5 100000000 necromancer_idle6 100000000 necromancer_idle7 100000000 necromancer_idle8 100000000
+
+necromancer_walk
+necromancer_walk1 100000000 necromancer_walk2 100000000 necromancer_walk3 100000000 necromancer_walk4 100000000 necromancer_walk5 100000000 necromancer_walk6 100000000 necromancer_walk7 100000000 necromancer_walk8 100000000
+
+necromancer_attack
+necromancer_attack1 100000000 necromancer_attack2 100000000 necromancer_attack3 100000000 necromancer_attack4 100000000 necromancer_attack5 100000000 necromancer_attack6 100000000 necromancer_attack7 100000000 necromancer_attack8 100000000 necromancer_attack9 100000000 necromancer_attack10 100000000 necromancer_attack11 100000000 necromancer_attack12 100000000
+
+necromancer_take_hit
+necromancer_take_hit1 100000000 necromancer_take_hit2 100000000 necromancer_take_hit3 100000000 necromancer_take_hit4 100000000 necromancer_take_hit5 1000000000
+
+necromancer_stuned
+necromancer_take_hit3 100000000 necromancer_take_hit3 0
+
+necromancer_death
+necromancer_death1 100000000 necromancer_death2 100000000 necromancer_death3 100000000 necromancer_death4 300000000 necromancer_death5 100000000 necromancer_death6 100000000 necromancer_death7 100000000 necromancer_death8 100000000 necromancer_death9 100000000
+
+necromancer_absorb
+necromancer_absorb1 10000000 necromancer_absorb2 100000000 necromancer_absorb3 100000000 necromancer_absorb4 100000000 necromancer_absorb5 100000000 necromancer_absorb6 100000000 necromancer_absorb7 100000000 necromancer_absorb8 100000000
+
+necromancer_summon_thunder
+necromancer_absorb9 200000000 necromancer_absorb10 200000000 necromancer_absorb11 200000000 necromancer_absorb12 100000000 necromancer_absorb13 100000000 necromancer_absorb14 100000000 necromancer_absorb15 100000000
+
+key_blue
+key_blue1 10000000 key_blue2 100000000 key_blue3 100000000 key_blue4 100000000 key_blue5 100000000 key_blue6 100000000 key_blue7 100000000 key_blue8 100000000 key_blue9 100000000 key_blue10 100000000 key_blue11 100000000 key_blue12 100000000
+
+bolt_bullet
+bolt1 70000000 bolt2 70000000 bolt3 70000000 bolt4 70000000
+
+bolt_hits
+bolt_hits1 70000000 bolt_hits2 70000000 bolt_hits3 70000000 bolt_hits4 70000000 bolt_hits5 70000000 bolt_hits6 70000000 bolt_hits7 70000000 bolt_hits7 0
+
+thunder_column
+thunder_column1 20000000 thunder_column2 20000000 thunder_column3 20000000 thunder_column4 20000000 thunder_column5 20000000 thunder_column5 0
+
+thunder_mark
+thunder_mark1 70000000 thunder_mark2 70000000 thunder_mark3 70000000 thunder_mark4 70000000
+
+thunder_strike
+thunder_strike1 70000000 thunder_strike2 70000000 thunder_strike3 70000000 thunder_strike4 70000000 thunder_strike5 70000000 thunder_strike5 0
+
+absorb_vitality
+absorb_vitality1 10000000 absorb_vitality2 100000000 absorb_vitality3 100000000 absorb_vitality4 100000000 absorb_vitality5 100000000 absorb_vitality6 100000000 absorb_vitality7 100000000 absorb_vitality8 100000000 absorb_vitality9 100000000 absorb_vitality10 100000000 absorb_vitality11 100000000 absorb_vitality12 100000000 absorb_vitality13 100000000 absorb_vitality14 100000000 absorb_vitality15 100000000
+
+bloody_effect
+bloody1 100000000 bloody2 100000000 bloody3 100000000 bloody4 100000000 bloody5 100000000 bloody6 100000000 bloody7 100000000 bloody8 100000000 bloody9 100000000 bloody10 100000000 bloody11 100000000 bloody12 100000000
+
+dark_soul_effect
+dark_soul1 100000000 dark_soul2 100000000 dark_soul3 100000000 dark_soul4 100000000 dark_soul5 100000000 dark_soul6 100000000 dark_soul7 100000000 dark_soul8 100000000 dark_soul9 100000000 dark_soul10 100000000 dark_soul11 100000000 dark_soul12 100000000 dark_soul13 100000000 dark_soul14 100000000

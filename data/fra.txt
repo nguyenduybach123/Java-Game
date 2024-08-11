@@ -1,0 +1,2197 @@
+
+304
+
+idle1
+image data/Idle.png
+x 85
+y 28
+w 49
+h 83
+
+idle2
+image data/Idle.png
+x 310
+y 28
+w 49
+h 83
+
+idle3
+image data/Idle.png
+x 85
+y 141
+w 49
+h 83
+
+idle4
+image data/Idle.png
+x 310
+y 141
+w 49
+h 83
+
+idle5
+image data/Idle.png
+x 85
+y 253
+w 49
+h 83
+
+idle6
+image data/Idle.png
+x 310
+y 253
+w 49
+h 83
+
+idle7
+image data/Idle.png
+x 85
+y 367
+w 49
+h 83
+
+idle8
+image data/Idle.png
+x 310
+y 367
+w 49
+h 83
+
+
+
+run1
+image data/Run.png
+x 81
+y 32
+w 57
+h 81
+
+run2
+image data/Run.png
+x 302
+y 30
+w 61
+h 83
+
+run3
+image data/Run.png
+x 78
+y 142
+w 62
+h 84
+
+run4
+image data/Run.png
+x 304
+y 142
+w 57
+h 84
+
+run5
+image data/Run.png
+x 81
+y 257
+w 57
+h 81
+
+run6
+image data/Run.png
+x 306
+y 255
+w 55
+h 83
+
+run7
+image data/Run.png
+x 78
+y 368
+w 58
+h 82
+
+run8
+image data/Run.png
+x 304
+y 368
+w 57
+h 82
+
+
+
+jump1
+image data/Jump.png
+x 85
+y 34
+w 51
+h 79
+
+jump2
+image data/Jump.png
+x 306
+y 23
+w 59
+h 88
+
+jump3
+image data/Jump.png
+x 91
+y 135
+w 50
+h 84
+
+jump4
+image data/Jump.png
+x 311
+y 139
+w 57
+h 80
+
+landing1
+image data/Jump.png
+x 84
+y 255
+w 59
+h 80
+
+landing2
+image data/Jump.png
+x 311
+y 258
+w 52
+h 80
+
+landing3
+image data/Jump.png
+x 83
+y 376
+w 51
+h 74
+
+landing4
+image data/Jump.png
+x 308
+y 369
+w 53
+h 81
+
+
+
+crouch1
+image data/Crouch.png
+x 64
+y 44
+w 72
+h 69
+
+crouch2
+image data/Crouch.png
+x 290
+y 44
+w 71
+h 69
+
+crouch3
+image data/Crouch.png
+x 64
+y 157
+w 70
+h 69
+
+crouch4
+image data/Crouch.png
+x 291
+y 159
+w 68
+h 66
+
+crouch5
+image data/Crouch.png
+x 64
+y 271
+w 70
+h 67
+
+crouch6
+image data/Crouch.png
+x 291
+y 271
+w 68
+h 67
+
+crouch7
+image data/Crouch.png
+x 64
+y 382
+w 72
+h 68
+
+crouch8
+image data/Crouch.png
+x 291
+y 382
+w 70
+h 68
+
+
+
+blade_weak_attack1
+image data/Attacks.png
+x 523
+y 28
+w 67
+h 85
+
+blade_weak_attack2
+image data/Attacks.png
+x 769
+y 30
+w 77
+h 83
+
+blade_weak_attack3
+image data/Attacks.png
+x 938
+y 28
+w 126
+h 85
+
+blade_weak_attack4
+image data/Attacks.png
+x 1206
+y 28
+w 59
+h 85
+
+
+
+blade_strong_attack1
+image data/Attacks.png
+x 1435
+y 28
+w 55
+h 85
+
+blade_strong_attack2
+image data/Attacks.png
+x 1655
+y 34
+w 91
+h 79
+
+blade_strong_attack3
+image data/Attacks.png
+x 78
+y 146
+w 93
+h 80
+
+blade_strong_attack4
+image data/Attacks.png
+x 302
+y 146
+w 68
+h 80
+
+
+
+stab_attack1
+image data/Attacks.png
+x 540
+y 148
+w 98
+h 78
+
+stab_attack2
+image data/Attacks.png
+x 768
+y 148
+w 96
+h 78
+
+stab_attack3
+image data/Attacks.png
+x 993
+y 148
+w 98
+h 78
+
+stab_attack4
+image data/Attacks.png
+x 1218
+y 148
+w 97
+h 78
+
+
+
+wind_blade_attack1
+image data/Attacks.png
+x 1435
+y 142
+w 55
+h 84
+
+wind_blade_attack2
+image data/Attacks.png
+x 1669
+y 143
+w 53
+h 83
+
+wind_blade_attack3
+image data/Attacks.png
+x 81
+y 259
+w 134
+h 80
+
+wind_blade_attack4
+image data/Attacks.png
+x 306
+y 260
+w 141
+h 78
+
+wind_blade_attack5
+image data/Attacks.png
+x 531
+y 262
+w 145
+h 76
+
+wind_blade_attack6
+image data/Attacks.png
+x 756
+y 262
+w 144
+h 76
+
+
+
+healing1
+image data/Health.png
+x 83
+y 28
+w 55
+h 85
+
+healing2
+image data/Health.png
+x 308
+y 28
+w 55
+h 85
+
+healing3
+image data/Health.png
+x 83
+y 141
+w 55
+h 85
+
+healing4
+image data/Health.png
+x 308
+y 141
+w 55
+h 85
+
+healing5
+image data/Health.png
+x 83
+y 253
+w 55
+h 85
+
+healing6
+image data/Health.png
+x 308
+y 253
+w 60
+h 85
+
+healing7
+image data/Health.png
+x 83
+y 367
+w 65
+h 83
+
+healing8
+image data/Health.png
+x 308
+y 367
+w 67
+h 83
+
+
+
+slide1
+image data/Slide.png
+x 85
+y 37
+w 51
+h 76
+
+slide2
+image data/Slide.png
+x 318
+y 43
+w 50
+h 72
+
+slide3
+image data/Slide.png
+x 547
+y 73
+w 71
+h 40
+
+slide4
+image data/Slide.png
+x 770
+y 73
+w 74
+h 40
+
+slide5
+image data/Slide.png
+x 95
+y 185
+w 75
+h 41
+
+slide6
+image data/Slide.png
+x 320
+y 185
+w 75
+h 41
+
+slide7
+image data/Slide.png
+x 772
+y 185
+w 75
+h 41
+
+slide8
+image data/Slide.png
+x 98
+y 295
+w 70
+h 43
+
+slide9
+image data/Slide.png
+x 316
+y 266
+w 39
+h 72
+
+
+
+air_attack1
+image data/AttackAir.png
+x 88
+y 0
+w 46
+h 104
+
+air_attack2
+image data/AttackAir.png
+x 313
+y 4
+w 46
+h 95
+
+air_attack3
+image data/AttackAir.png
+x 89
+y 118
+w 45
+h 97
+
+air_attack4
+image data/AttackAir.png
+x 282
+y 150
+w 112
+h 76
+
+air_attack5
+image data/AttackAir.png
+x 46
+y 259
+w 132
+h 79
+
+air_attack6
+image data/AttackAir.png
+x 259
+y 259
+w 153
+h 79
+
+air_attack7
+image data/AttackAir.png
+x 35
+y 368
+w 160
+h 82
+
+
+
+hurt1
+image data/Hurt.png
+x 88
+y 34
+w 50
+h 79
+
+hurt2
+image data/Hurt.png
+x 309
+y 36
+w 57
+h 77
+
+hurt3
+image data/Hurt.png
+x 85
+y 145
+w 58
+h 80
+
+
+
+skeleton_idle1
+image data/Skeleton_Idle.png
+x 89
+y 74
+w 69
+h 78
+
+skeleton_idle2
+image data/Skeleton_Idle.png
+x 313
+y 75
+w 70
+h 77
+
+skeleton_idle3
+image data/Skeleton_Idle.png
+x 539
+y 77
+w 69
+h 75
+
+skeleton_idle4
+image data/Skeleton_Idle.png
+x 764
+y 75
+w 69
+h 77
+
+
+
+skeleton_walk1
+image data/Skeleton_Walk.png
+x 89
+y 74
+w 69
+h 78
+
+skeleton_walk2
+image data/Skeleton_Walk.png
+x 314
+y 76
+w 69
+h 76
+
+skeleton_walk3
+image data/Skeleton_Walk.png
+x 539
+y 75
+w 69
+h 77
+
+skeleton_walk4
+image data/Skeleton_Walk.png
+x 764
+y 74
+w 69
+h 78
+
+
+
+skeleton_attack1
+image data/Skeleton_Attack.png
+x 89
+y 74
+w 69
+h 78
+
+skeleton_attack2
+image data/Skeleton_Attack.png
+x 314
+y 73
+w 64
+h 79
+
+skeleton_attack3
+image data/Skeleton_Attack.png
+x 529
+y 65
+w 55
+h 87
+
+skeleton_attack4
+image data/Skeleton_Attack.png
+x 754
+y 65
+w 55
+h 87
+
+skeleton_attack5
+image data/Skeleton_Attack.png
+x 979
+y 65
+w 55
+h 87
+
+skeleton_attack6
+image data/Skeleton_Attack.png
+x 1212
+y 65
+w 47
+h 87
+
+skeleton_attack7
+image data/Skeleton_Attack.png
+x 1415
+y 77
+w 119
+h 75
+
+skeleton_attack8
+image data/Skeleton_Attack.png
+x 1676
+y 77
+w 119
+h 75
+
+
+
+skeleton_takehit1
+image data/Skeleton_TakeHit.png
+x 89
+y 74
+w 69
+h 78
+
+skeleton_takehit2
+image data/Skeleton_TakeHit.png
+x 524
+y 74
+w 76
+h 78
+
+skeleton_takehit3
+image data/Skeleton_TakeHit.png
+x 752
+y 71
+w 76
+h 81
+
+
+
+skeleton_death1
+image data/Skeleton_Death.png
+x 89
+y 74
+w 69
+h 81
+
+skeleton_death2
+image data/Skeleton_Death.png
+x 308
+y 86
+w 78
+h 66
+
+skeleton_death3
+image data/Skeleton_Death.png
+x 530
+y 116
+w 82
+h 36
+
+skeleton_death4
+image data/Skeleton_Death.png
+x 752
+y 131
+w 85
+h 21
+
+
+
+necromancer_idle1
+image data/Necromancer.png
+x 129
+y 116
+w 90
+h 127
+
+necromancer_idle2
+image data/Necromancer.png
+x 465
+y 116
+w 90
+h 127
+
+necromancer_idle3
+image data/Necromancer.png
+x 801
+y 116
+w 90
+h 127
+
+necromancer_idle4
+image data/Necromancer.png
+x 1137
+y 116
+w 90
+h 127
+
+necromancer_idle5
+image data/Necromancer.png
+x 1473
+y 116
+w 90
+h 127
+
+necromancer_idle6
+image data/Necromancer.png
+x 1809
+y 116
+w 90
+h 127
+
+necromancer_idle7
+image data/Necromancer.png
+x 2145
+y 116
+w 90
+h 127
+
+necromancer_idle8
+image data/Necromancer.png
+x 2481
+y 116
+w 90
+h 127
+
+
+
+necromancer_walk1
+image data/Necromancer.png
+x 137
+y 412
+w 84
+h 108
+
+necromancer_walk2
+image data/Necromancer.png
+x 473
+y 412
+w 84
+h 108
+
+necromancer_walk3
+image data/Necromancer.png
+x 809
+y 412
+w 84
+h 108
+
+necromancer_walk4
+image data/Necromancer.png
+x 1145
+y 412
+w 84
+h 108
+
+necromancer_walk5
+image data/Necromancer.png
+x 1481
+y 412
+w 84
+h 108
+
+necromancer_walk6
+image data/Necromancer.png
+x 1817
+y 412
+w 84
+h 108
+
+necromancer_walk7
+image data/Necromancer.png
+x 2153
+y 412
+w 84
+h 108
+
+necromancer_walk8
+image data/Necromancer.png
+x 2489
+y 412
+w 84
+h 108
+
+
+
+necromancer_take_hit1
+image data/Necromancer.png
+x 129
+y 1473
+w 91
+h 114
+
+necromancer_take_hit2
+image data/Necromancer.png
+x 459
+y 1473
+w 91
+h 114
+
+necromancer_take_hit3
+image data/Necromancer.png
+x 794
+y 1473
+w 91
+h 114
+
+necromancer_take_hit4
+image data/Necromancer.png
+x 1134
+y 1473
+w 91
+h 114
+
+necromancer_take_hit5
+image data/Necromancer.png
+x 1472
+y 1473
+w 91
+h 114
+
+
+necromancer_death1
+image data/Necromancer.png
+x 129
+y 1716
+w 122
+h 133
+
+necromancer_death2
+image data/Necromancer.png
+x 462
+y 1716
+w 122
+h 133
+
+necromancer_death3
+image data/Necromancer.png
+x 794
+y 1716
+w 122
+h 133
+
+necromancer_death4
+image data/Necromancer.png
+x 1126
+y 1716
+w 122
+h 133
+
+necromancer_death5
+image data/Necromancer.png
+x 1455
+y 1716
+w 122
+h 133
+
+necromancer_death6
+image data/Necromancer.png
+x 1789
+y 1716
+w 122
+h 133
+
+necromancer_death7
+image data/Necromancer.png
+x 2119
+y 1716
+w 122
+h 133
+
+necromancer_death8
+image data/Necromancer.png
+x 2451
+y 1716
+w 122
+h 133
+
+necromancer_death9
+image data/Necromancer.png
+x 2782
+y 1716
+w 122
+h 133
+
+
+
+necromancer_attack1
+image data/Necromancer.png
+x 129
+y 561
+w 156
+h 215
+
+necromancer_attack2
+image data/Necromancer.png
+x 465
+y 561
+w 156
+h 215
+
+necromancer_attack3
+image data/Necromancer.png
+x 801
+y 561
+w 156
+h 215
+
+necromancer_attack4
+image data/Necromancer.png
+x 1137
+y 561
+w 156
+h 215
+
+necromancer_attack5
+image data/Necromancer.png
+x 1473
+y 561
+w 156
+h 215
+
+necromancer_attack6
+image data/Necromancer.png
+x 1809
+y 561
+w 156
+h 215
+
+necromancer_attack7
+image data/Necromancer.png
+x 2144
+y 561
+w 156
+h 215
+
+necromancer_attack8
+image data/Necromancer.png
+x 2481
+y 561
+w 156
+h 215
+
+necromancer_attack9
+image data/Necromancer.png
+x 2817
+y 561
+w 156
+h 215
+
+necromancer_attack10
+image data/Necromancer.png
+x 3153
+y 561
+w 156
+h 215
+
+necromancer_attack11
+image data/Necromancer.png
+x 3489
+y 561
+w 156
+h 215
+
+necromancer_attack12
+image data/Necromancer.png
+x 3822
+y 561
+w 156
+h 215
+
+
+
+necromancer_absorb1
+image data/Necromancer.png
+x 129
+y 1185
+w 99
+h 133
+
+necromancer_absorb2
+image data/Necromancer.png
+x 463
+y 1185
+w 99
+h 133
+
+necromancer_absorb3
+image data/Necromancer.png
+x 797
+y 1185
+w 99
+h 133
+
+necromancer_absorb4
+image data/Necromancer.png
+x 1133
+y 1185
+w 99
+h 133
+
+necromancer_absorb5
+image data/Necromancer.png
+x 1466
+y 1185
+w 99
+h 133
+
+necromancer_absorb6
+image data/Necromancer.png
+x 1804
+y 1185
+w 99
+h 133
+
+necromancer_absorb7
+image data/Necromancer.png
+x 2140
+y 1185
+w 99
+h 133
+
+necromancer_absorb8
+image data/Necromancer.png
+x 2474
+y 1185
+w 99
+h 133
+
+necromancer_absorb9
+image data/Necromancer.png
+x 2810
+y 1185
+w 99
+h 133
+
+necromancer_absorb10
+image data/Necromancer.png
+x 3146
+y 1185
+w 99
+h 133
+
+necromancer_absorb11
+image data/Necromancer.png
+x 3482
+y 1185
+w 99
+h 133
+
+necromancer_absorb12
+image data/Necromancer.png
+x 3831
+y 1185
+w 99
+h 133
+
+necromancer_absorb13
+image data/Necromancer.png
+x 4165
+y 1185
+w 99
+h 133
+
+necromancer_absorb14
+image data/Necromancer.png
+x 4494
+y 1185
+w 99
+h 133
+
+necromancer_absorb15
+image data/Necromancer.png
+x 4838
+y 1185
+w 99
+h 133
+
+necromancer_absorb14
+image data/Necromancer.png
+x 5174
+y 1185
+w 99
+h 133
+
+necromancer_absorb15
+image data/Necromancer.png
+x 5504
+y 1185
+w 99
+h 133
+
+
+
+tiled1
+image data/Tiled_1.png
+x 434
+y 143
+w 30
+h 30
+
+tiled2
+image data/Tiled_1.png
+x 390
+y 145
+w 30
+h 30
+
+tiled3
+image data/Tiled_1.png
+x 569
+y 143
+w 30
+h 30
+
+tiled4
+image data/Tiled_1.png
+x 344
+y 141
+w 30
+h 30
+
+tiled5
+image data/Tiled_1.png
+x 434
+y 143
+w 30
+h 30
+
+tiled6
+image data/Tiled_1.png
+x 434
+y 143
+w 30
+h 30
+
+tiled7
+image data/Tiled_1.png
+x 434
+y 143
+w 30
+h 30
+
+tiled8
+image data/Tiled_1.png
+x 434
+y 143
+w 30
+h 30
+
+tiled9
+image data/Tiled_1.png
+x 362
+y 38
+w 30
+h 30
+
+tiled10
+image data/Tiled_1.png
+x 362
+y 38
+w 30
+h 30
+
+tiled11
+image data/Tiled_1.png
+x 362
+y 38
+w 30
+h 30
+
+tiled12
+image data/Tiled_1.png
+x 362
+y 38
+w 30
+h 30
+
+tiled13
+image data/Tiled_1.png
+x 362
+y 38
+w 30
+h 30
+
+tiled14
+image data/Tiled_1.png
+x 362
+y 38
+w 30
+h 30
+
+tiled15
+image data/Tiled_1.png
+x 362
+y 38
+w 30
+h 30
+
+tiled16
+image data/Tiled_1.png
+x 285
+y 77
+w 30
+h 30
+
+tiled17
+image data/Tiled_1.png
+x 284
+y 77
+w 30
+h 30
+
+tiled18
+image data/Tiled_1.png
+x 404
+y 77
+w 30
+h 30
+
+tiled19
+image data/Tiled_1.png
+x 314
+y 75
+w 30
+h 30
+
+tiled20
+image data/Tiled_1.png
+x 376
+y 75
+w 30
+h 30
+
+tiled21
+image data/Background_1.png
+x 618
+y 30
+w 30
+h 30
+
+tiled22
+image data/Background_1.png
+x 20
+y 120
+w 30
+h 30
+
+tiled23
+image data/Background_1.png
+x 50
+y 120
+w 30
+h 30
+
+tiled24
+image data/Background_1.png
+x 80
+y 120
+w 30
+h 30
+
+tiled25
+image data/Background_1.png
+x 110
+y 120
+w 30
+h 30
+
+tiled26
+image data/Background_1.png
+x 140
+y 120
+w 30
+h 30
+
+tiled27
+image data/Background_1.png
+x 170
+y 120
+w 30
+h 30
+
+tiled28
+image data/Background_1.png
+x 20
+y 150
+w 30
+h 30
+
+tiled29
+image data/Background_1.png
+x 50
+y 150
+w 30
+h 30
+
+tiled30
+image data/Background_1.png
+x 80
+y 150
+w 30
+h 30
+
+tiled31
+image data/Background_1.png
+x 110
+y 150
+w 30
+h 30
+
+tiled32
+image data/Background_1.png
+x 140
+y 150
+w 30
+h 30
+
+tiled33
+image data/Background_1.png
+x 170
+y 150
+w 30
+h 30
+
+tiled34
+image data/Background_1.png
+x 20
+y 180
+w 30
+h 30
+
+tiled35
+image data/Background_1.png
+x 50
+y 180
+w 30
+h 30
+
+tiled36
+image data/Background_1.png
+x 80
+y 180
+w 30
+h 30
+
+tiled37
+image data/Background_1.png
+x 110
+y 180
+w 30
+h 30
+
+tiled38
+image data/Background_1.png
+x 140
+y 180
+w 30
+h 30
+
+tiled39
+image data/Background_1.png
+x 170
+y 180
+w 30
+h 30
+
+tiled40
+image data/Background_1.png
+x 20
+y 210
+w 30
+h 30
+
+tiled41
+image data/Background_1.png
+x 50
+y 210
+w 30
+h 30
+
+tiled42
+image data/Background_1.png
+x 80
+y 210
+w 30
+h 30
+
+tiled43
+image data/Background_1.png
+x 110
+y 210
+w 30
+h 30
+
+tiled44
+image data/Background_1.png
+x 140
+y 210
+w 30
+h 30
+
+tiled45
+image data/Background_1.png
+x 170
+y 210
+w 30
+h 30
+
+tiled46
+image data/Background_1.png
+x 20
+y 240
+w 30
+h 30
+
+tiled47
+image data/Background_1.png
+x 50
+y 240
+w 30
+h 30
+
+tiled48
+image data/Background_1.png
+x 80
+y 240
+w 30
+h 30
+
+tiled49
+image data/Background_1.png
+x 110
+y 240
+w 30
+h 30
+
+tiled50
+image data/Background_1.png
+x 140
+y 240
+w 30
+h 30
+
+tiled51
+image data/Background_1.png
+x 170
+y 240
+w 30
+h 30
+
+tiled52
+image data/Background_1.png
+x 20
+y 270
+w 30
+h 30
+
+tiled53
+image data/Background_1.png
+x 50
+y 270
+w 30
+h 30
+
+tiled54
+image data/Background_1.png
+x 80
+y 270
+w 30
+h 30
+
+tiled55
+image data/Background_1.png
+x 110
+y 270
+w 30
+h 30
+
+tiled56
+image data/Background_1.png
+x 140
+y 270
+w 30
+h 30
+
+tiled57
+image data/Background_1.png
+x 170
+y 270
+w 30
+h 30
+
+tiled58
+image data/Background_1.png
+x 20
+y 300
+w 30
+h 30
+
+tiled59
+image data/Background_1.png
+x 50
+y 300
+w 30
+h 30
+
+tiled60
+image data/Background_1.png
+x 80
+y 300
+w 30
+h 30
+
+tiled61
+image data/Background_1.png
+x 110
+y 300
+w 30
+h 30
+
+tiled62
+image data/Background_1.png
+x 140
+y 300
+w 30
+h 30
+
+tiled63
+image data/Background_1.png
+x 170
+y 300
+w 30
+h 30
+
+
+
+door_1
+image data/Door_1.png
+x 1
+y 4
+w 98
+h 136
+
+
+
+health_bar
+image data/Health_Bar.png
+x 7
+y 8
+w 241
+h 17
+
+frame_no_health
+image data/No_Health_Bar.png
+x 1
+y 3
+w 253
+h 24
+
+
+
+stamina_bar
+image data/Stamina_Bar.png
+x 4
+y 37
+w 248
+h 11
+
+
+
+key_blue1
+image data/Key_Blue_Item.png
+x 9
+y 3
+w 14
+h 29
+
+key_blue2
+image data/Key_Blue_Item.png
+x 42
+y 2
+w 12
+h 29
+
+key_blue3
+image data/Key_Blue_Item.png
+x 75
+y 1
+w 10
+h 29
+
+key_blue4
+image data/Key_Blue_Item.png
+x 109
+y 0
+w 5
+h 29
+
+key_blue5
+image data/Key_Blue_Item.png
+x 138
+y 1
+w 10
+h 29
+
+key_blue6
+image data/Key_Blue_Item.png
+x 169
+y 2
+w 12
+h 29
+
+key_blue7
+image data/Key_Blue_Item.png
+x 200
+y 3
+w 14
+h 29
+
+key_blue8
+image data/Key_Blue_Item.png
+x 233
+y 2
+w 12
+h 29
+
+key_blue9
+image data/Key_Blue_Item.png
+x 266
+y 1
+w 10
+h 29
+
+key_blue10
+image data/Key_Blue_Item.png
+x 301
+y 0
+w 5
+h 29
+
+key_blue11
+image data/Key_Blue_Item.png
+x 331
+y 1
+w 10
+h 29
+
+key_blue12
+image data/Key_Blue_Item.png
+x 362
+y 2
+w 12
+h 29
+
+
+
+bolt1
+image data/Bolt_Bullet/Bolt1.png
+x 0
+y 0
+w 120
+h 80
+
+bolt2
+image data/Bolt_Bullet/Bolt2.png
+x 0
+y 0
+w 120
+h 80
+
+bolt3
+image data/Bolt_Bullet/Bolt3.png
+x 0
+y 0
+w 120
+h 80
+
+bolt4
+image data/Bolt_Bullet/Bolt4.png
+x 0
+y 0
+w 120
+h 80
+
+bolt_hits1
+image data/Bolt_Bullet/Hits1.png
+x 0
+y 0
+w 64
+h 64
+
+bolt_hits2
+image data/Bolt_Bullet/Hits2.png
+x 0
+y 0
+w 64
+h 64
+
+bolt_hits3
+image data/Bolt_Bullet/Hits3.png
+x 0
+y 0
+w 64
+h 64
+
+bolt_hits4
+image data/Bolt_Bullet/Hits4.png
+x 0
+y 0
+w 70
+h 70
+
+bolt_hits5
+image data/Bolt_Bullet/Hits5.png
+x 0
+y 0
+w 80
+h 80
+
+bolt_hits6
+image data/Bolt_Bullet/Hits6.png
+x 0
+y 0
+w 80
+h 80
+
+bolt_hits7
+image data/Bolt_Bullet/Hits7.png
+x 0
+y 0
+w 80
+h 80
+
+
+
+thunder_column1
+image data/ThunderColumn_Spell/Thunder_Column.png
+x 16
+y 82
+w 28
+h 124
+
+thunder_column2
+image data/ThunderColumn_Spell/Thunder_Column.png
+x 79
+y 82
+w 28
+h 124
+
+thunder_column3
+image data/ThunderColumn_Spell/Thunder_Column.png
+x 129
+y 82
+w 28
+h 124
+
+thunder_column4
+image data/ThunderColumn_Spell/Thunder_Column.png
+x 160
+y 82
+w 28
+h 124
+
+thunder_column5
+image data/ThunderColumn_Spell/Thunder_Column.png
+x 210
+y 82
+w 28
+h 124
+
+
+
+thunder_mark1
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 16
+y 53
+w 34
+h 9
+
+thunder_mark2
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 79
+y 53
+w 34
+h 9
+
+thunder_mark3
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 144
+y 53
+w 34
+h 9
+
+thunder_mark4
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 207
+y 53
+w 34
+h 9
+
+
+
+thunder_strike1
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 323
+y 26
+w 54
+h 37
+
+thunder_strike2
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 387
+y 26
+w 54
+h 37
+
+thunder_strike3
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 452
+y 26
+w 54
+h 37
+
+thunder_strike4
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 516
+y 26
+w 54
+h 37
+
+thunder_strike5
+image data/ThunderColumn_Spell/Thunder_Strike.png
+x 582
+y 26
+w 54
+h 37
+
+
+
+absorb_vitality1
+image data/AbsorbVitality_Spell/FX001.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality2
+image data/AbsorbVitality_Spell/FX002.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality3
+image data/AbsorbVitality_Spell/FX003.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality4
+image data/AbsorbVitality_Spell/FX004.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality5
+image data/AbsorbVitality_Spell/FX005.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality6
+image data/AbsorbVitality_Spell/FX006.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality7
+image data/AbsorbVitality_Spell/FX007.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality8
+image data/AbsorbVitality_Spell/FX008.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality9
+image data/AbsorbVitality_Spell/FX009.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality10
+image data/AbsorbVitality_Spell/FX010.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality11
+image data/AbsorbVitality_Spell/FX011.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality12
+image data/AbsorbVitality_Spell/FX012.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality13
+image data/AbsorbVitality_Spell/FX013.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality14
+image data/AbsorbVitality_Spell/FX014.png
+x 1
+y 1
+w 176
+h 135
+
+absorb_vitality15
+image data/AbsorbVitality_Spell/FX015.png
+x 1
+y 1
+w 176
+h 135
+
+
+
+bloody1
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 33
+y 30
+w 52
+h 51
+
+bloody2
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 152
+y 30
+w 52
+h 51
+
+bloody3
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 272
+y 30
+w 52
+h 51
+
+bloody4
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 391
+y 30
+w 52
+h 51
+
+bloody5
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 33
+y 153
+w 52
+h 51
+
+bloody6
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 152
+y 153
+w 52
+h 51
+
+bloody7
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 272
+y 153
+w 52
+h 51
+
+bloody8
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 391
+y 153
+w 52
+h 51
+
+bloody9
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 33
+y 276
+w 52
+h 51
+
+bloody10
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 152
+y 276
+w 52
+h 51
+
+bloody11
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 272
+y 276
+w 52
+h 51
+
+bloody12
+image data/AbsorbVitality_Spell/Vitality_Effect.png
+x 391
+y 276
+w 52
+h 51
+
+
+
+dark_soul1
+image data/Summon_Effect/DarkSoul.png
+x 9
+y 4
+w 70
+h 112
+
+dark_soul2
+image data/Summon_Effect/DarkSoul.png
+x 94
+y 4
+w 70
+h 112
+
+dark_soul3
+image data/Summon_Effect/DarkSoul.png
+x 183
+y 4
+w 70
+h 112
+
+dark_soul4
+image data/Summon_Effect/DarkSoul.png
+x 270
+y 4
+w 70
+h 112
+
+dark_soul5
+image data/Summon_Effect/DarkSoul.png
+x 357
+y 4
+w 70
+h 112
+
+dark_soul6
+image data/Summon_Effect/DarkSoul.png
+x 445
+y 4
+w 70
+h 112
+
+dark_soul7
+image data/Summon_Effect/DarkSoul.png
+x 535
+y 4
+w 70
+h 112
+
+dark_soul8
+image data/Summon_Effect/DarkSoul.png
+x 625
+y 4
+w 70
+h 112
+
+dark_soul9
+image data/Summon_Effect/DarkSoul.png
+x 802
+y 4
+w 70
+h 112
+
+dark_soul10
+image data/Summon_Effect/DarkSoul.png
+x 952
+y 4
+w 70
+h 112
+
+dark_soul11
+image data/Summon_Effect/DarkSoul.png
+x 977
+y 4
+w 70
+h 112
+
+dark_soul12
+image data/Summon_Effect/DarkSoul.png
+x 1064
+y 4
+w 70
+h 112
+
+dark_soul13
+image data/Summon_Effect/DarkSoul.png
+x 1152
+y 4
+w 70
+h 112
+
+dark_soul14
+image data/Summon_Effect/DarkSoul.png
+x 1240
+y 4
+w 70
+h 112
