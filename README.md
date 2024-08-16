@@ -31,6 +31,6 @@
    ![Screenshot 2024-08-16 105739](https://github.com/user-attachments/assets/b7ff286a-8b33-4d27-bd20-1bba931d64a4)
 
 
-<h3>9. TÔNG KẾT :</h3>
+<h3>9. TỔNG KẾT :</h3>
 <p> => Sau một tháng xây dựng chúng tôi đã hoàn thành được màn 1 của trò chơi</p>
     
