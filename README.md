@@ -15,10 +15,10 @@
 </ul>
     
    
-7. TÍNH NĂNG :
+<h3>7. TÍNH NĂNG :</h3>
    - Xây dựng các khả năng cơ bản của nhân vật chính (chạy, lướt, đánh, tuyệt chiêu)
    - Xây dựng quái vật (Skeleton, Necromacer)
 
-9. TÔNG KẾT :
-   - Sau một tháng xây dựng chúng tôi đã hoàn thành được màn 1 của trò chơi   
+<h3>9. TÔNG KẾT :</h3>
+<p>Sau một tháng xây dựng chúng tôi đã hoàn thành được màn 1 của trò chơi</p>
     
