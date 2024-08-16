@@ -16,6 +16,7 @@
     
    
 <h3>7. TÍNH NĂNG :</h3>
+
    - Xây dựng các khả năng cơ bản của nhân vật chính (chạy, lướt, đánh, tuyệt chiêu) :
    ![Screenshot 2024-08-16 122526](https://github.com/user-attachments/assets/95f86672-0235-4f76-afe3-ca6d58c64d8b)
 
